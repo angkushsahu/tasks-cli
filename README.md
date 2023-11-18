@@ -1,6 +1,6 @@
 # Tasks CLI tools
 
-This is a task application but in the terminal. So don't say it is a very common project. If you do, I Chuck Norris will haunt you in your dreams.
+This is a task application but in the terminal. So don't say it is a very common project. If you do, Chuck Norris will haunt you in your dreams.
 
 ## About The Developer
 
